@@ -1,4 +1,4 @@
-Iris Flower Classification 🌸
+# Iris Flower Classification 🌸
 
 A multi-class classification project that predicts the species of an iris flower (setosa, versicolor, or virginica) from its sepal and petal measurements. I compared four classifiers, evaluated them with cross-validation, and analysed which features matter most.
 
