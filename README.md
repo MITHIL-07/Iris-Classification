@@ -2,7 +2,7 @@ Iris Flower Classification 🌸
 
 A multi-class classification project that predicts the species of an iris flower (setosa, versicolor, or virginica) from its sepal and petal measurements. I compared four classifiers, evaluated them with cross-validation, and analysed which features matter most.
 
-Dataset
+# Dataset
 Source: the classic Iris dataset (Fisher, 1936), loaded from scikit-learn
 Size: 150 flowers, 50 per species (perfectly balanced)
 Features (cm): sepal_length, sepal_width, petal_length, petal_width
@@ -44,11 +44,13 @@ Project Structure
 iris-classification/
 ├── iris-classification.ipynb   # full analysis: EDA, models, evaluation
 └── README.md
-Tech Stack
+
+
+# Tech Stack
 
 Python · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn · Jupyter
 
-* What I Learned
+# What I Learned
 -> How to compare multiple classifiers fairly using cross-validation
 -> Reading a confusion matrix, and the difference between precision and recall
 -> Why stratified splitting matters on small datasets
